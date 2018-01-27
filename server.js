@@ -68,13 +68,15 @@ socket.on('incoming tweet', function(data) {
 //Mark was here
 //Mark was here
 
-//Mark was here
-//Mark was here
-//Mark was here
-//Mark was here
-//Mark was here
-//Mark was here
-//Mark was here
+//Mark was not here
+//Mark was not here
+//Mark was not here
+//Mark was not here
+//Mark was not here
+//Mark was not here
+//Mark was not here
+//Mark was not here
+
 
 //Mark was here
 //Mark was here
