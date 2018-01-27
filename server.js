@@ -58,3 +58,35 @@ socket.on('incoming tweet', function(data) {
     console.log('data')
     $tweetContainer.preappend('<p>' + data.text + '</p>')
 })
+
+
+
+//Mark was here
+//Mark was here
+//Mark was here
+//Mark was here
+//Mark was here
+//Mark was here
+
+//Mark was here
+//Mark was here
+//Mark was here
+//Mark was here
+//Mark was here
+//Mark was here
+//Mark was here
+
+//Mark was here
+//Mark was here
+//Mark was here
+//Mark was here
+//Mark was here
+//Mark was here
+//Mark was here
+
+//Mark was here
+//Mark was here
+//Mark was here
+//Mark was here
+//Mark was here
+//Mark was here
